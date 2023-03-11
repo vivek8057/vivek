@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "HALF PYRAMID OF NUMBERS.C": "cpp",
+        "HALF PYRAMID OF ALPHABETS.C": "cpp",
+        "INVERTED HALF PYRAMID.C": "cpp"
+    }
+}
